@@ -10,6 +10,15 @@ void main() {
   // number= number ~/10;//4
   // revers = (digit_1*100)+(digit_2*10)+number;
   // print(revers);
+    //*******************************************
+  // int i=0;
+  // while(i!=number){
+  //     int digit =number%10;
+  //     result= (result*10)+digit;
+  //     number=number~/10;
+  // }
+  // print(result);
+//**************************************
    int number = 1234;
    int revers =0;
    while(number>0){//t
